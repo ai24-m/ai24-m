@@ -22,7 +22,7 @@
   
 </p>
 <hr/>
- <h4 align="center">🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</h4>
+ <h4 align="center">🛠️&nbsp;&nbsp;Languages,&nbsp;Tools&nbsp;and&nbsp;Technologies</h4>
 
 
 <p align="center">
